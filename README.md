@@ -1,8 +1,7 @@
 # Rotating-Sky [Blog](https://rotatingsky.github.io/Rotating-Sky/)
 
-> Here are experiences of learning computer, mathematics, physics and some biology.
-
-> They are interrelated with each other, and I hope knowledge can be more interesting and well-understand.
+Here are experiences of learning computer, mathematics, physics and some biology.
+They are interrelated with each other, and I hope knowledge can be more interesting and well-understand.
 
 
 ## Mathematics
