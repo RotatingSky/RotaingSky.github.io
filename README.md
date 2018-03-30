@@ -22,6 +22,7 @@ They are interrelated with each other, and I hope knowledge can be more interest
 
 ### Application and Interdisciplinary
 * Artificial Neural Networks
+  * Reinforcement Learning
 * Machine Learning and Pattern Recognition
 * Computer Vision
 * Embedded System
