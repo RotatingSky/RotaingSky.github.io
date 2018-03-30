@@ -1,4 +1,4 @@
-# Rotating-Sky [Blog]
+# Rotating-Sky *Blog*
 
 > Here are experiences of learning computer, mathematics, physics and some biology.
 > They are interrelated with each other, and I hope knowledge can be more interesting and well-understand.
@@ -12,11 +12,11 @@
 ### Program Language
 * C/C++
 * Java
-* html javascript
+* html  javascript
 * css xml xaml
 * Python
 * Matlab
-* Qt C#
+* Qt  C#
 * Lisp
 
 ### Application and Interdisciplinary
