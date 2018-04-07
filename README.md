@@ -23,7 +23,7 @@ They are interrelated with each other, and I hope knowledge can be more interest
 ### Application and Interdisciplinary
 * Artificial Neural Networks
   * Reinforcement Learning
-  * [Tensorflow](https://github.com/RotatingSky/Rotating-Sky/blob/master/Note of Installing Tensorflow.md)
+  * [Tensorflow](https://github.com/RotatingSky/Rotating-Sky/blob/master/Note%20of%20Installing%20Tensorflow.md)
   * Caffe
 * Machine Learning and Pattern Recognition
 * Computer Vision
