@@ -39,7 +39,7 @@ lsmod | grep nouveau
 
 Download driver from the [NVIDIA](http://www.nvidia.cn/Download/index.aspx?lang=cn) web
 
-![nvidia](/home/nan/Learning/Tensorflow/Note_Images/2.png)
+![nvidia](https://raw.githubusercontent.com/RotatingSky/Rotating-Sky/master/Tensorflow/Note_Images/2.png)
 
 ```sh
 cd ~/Download
@@ -51,7 +51,7 @@ sudo ./NVIDIA-Linux-x86_64-390.48.run -no-opengl-files
 
 1. Select the appropriate version.
 
-![cuda](/home/nan/Learning/Tensorflow/Note_Images/1.png)
+![cuda](https://github.com/RotatingSky/Rotating-Sky/blob/master/Tensorflow/Note_Images/1.png?raw=true)
 
 2. Then open a terminal and enter the path you save it.
 
