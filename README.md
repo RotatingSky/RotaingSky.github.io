@@ -23,7 +23,7 @@ They are interrelated with each other, and I hope knowledge can be more interest
 ### Application and Interdisciplinary
 * Artificial Neural Networks
   * Reinforcement Learning
-  * [Tensorflow]()
+  * [Tensorflow](https://github.com/RotatingSky/Rotating-Sky/blob/master/Tensorflow/Note_of_Installing_Tensorflow.md)
   * Caffe
 * Machine Learning and Pattern Recognition
 * Computer Vision
@@ -35,7 +35,7 @@ They are interrelated with each other, and I hope knowledge can be more interest
 
 ### Computer Design and Control
 * Photoshop
-* Gazebo
+* [Gazebo](https://github.com/RotatingSky/Rotating-Sky/blob/master/Gazebo/Note_of_Gazebo.md)
 
 ## Physics
 * Statistical Mechanics
